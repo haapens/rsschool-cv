@@ -9,7 +9,7 @@
 # *Summary:* 
 
 
-I want to find my place in the field of IT technologies and become a part of this society. I like the fact that I can see the result of my work. I have little experience, but a great desire to work, reach new levels and improve my skills. I love working in a team.
+    I want to find my place in the field of IT technologies and become a part of this society. I like the fact that I can see the result of my work. I have little experience, but a great desire to work, reach new levels and improve my skills. I love working in a team.
 
 
 # *Skills:*
